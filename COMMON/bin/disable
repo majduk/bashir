@@ -1,0 +1,8 @@
+#!/bin/bash
+
+#main config
+source "$1"
+
+file="$3"
+
+exit $IMPORT_SUCCESS

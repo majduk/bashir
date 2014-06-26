@@ -1,0 +1,3 @@
+cd /home/smsc/site/trace/etl_data/
+mget download.*
+bye
